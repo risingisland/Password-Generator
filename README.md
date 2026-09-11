@@ -4,6 +4,7 @@
 
 **A lightweight, self-contained PHP password generator with a responsive web interface.**
 
+
 [![PHP 7.4+](https://img.shields.io/badge/PHP-7.4%2B-777BB4?logo=php&logoColor=white)](https://www.php.net/)
 [![PHP 8.x](https://img.shields.io/badge/PHP-8.x-777BB4?logo=php&logoColor=white)](https://www.php.net/)
 [![Version](https://img.shields.io/badge/version-1.3-blue.svg)](https://github.com/risingisland)
@@ -16,6 +17,8 @@
 **Generate • Customize • Preview • Export • Estimate Strength**
 
 The script generates multiple passwords according to configurable character-set options, supports prefixes and suffixes, can optionally append SHA1 and/or MD5 hashes, estimates the strength of each generated password, and allows the generated list to be exported as TXT or CSV.
+
+Made with PHP • No frameworks • No database • No dependencies
 </div>
 
 ---
@@ -390,14 +393,3 @@ If you plan to redistribute or substantially modify the project, confirm the app
 If you find this project useful and would like to support its development:
 
 [![Ko-fi](https://img.shields.io/badge/Support%20on-Ko--fi-ff5e5b?logo=ko-fi&logoColor=white)](https://ko-fi.com/ericmontgomery)
-
----
-
-<div align="center">
-
-**Password Generator v1.2**
-
-Made with PHP • No frameworks • No database • No dependencies
-
-</div>
-
