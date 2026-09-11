@@ -19,6 +19,9 @@
 The script generates multiple passwords according to configurable character-set options, supports prefixes and suffixes, can optionally append SHA1 and/or MD5 hashes, estimates the strength of each generated password, and allows the generated list to be exported as TXT or CSV.
 
 Made with PHP • No frameworks • No database • No dependencies
+
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/9f924a84-29bd-49b3-a53a-fdb92a01c6a8" />
+
 </div>
 
 ---
