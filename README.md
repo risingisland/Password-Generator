@@ -65,14 +65,14 @@ No database is required.
 
 ## Installation
 
-1. Copy `password.php` to a directory served by your web server.
+1. Copy `index.php` to a directory served by your web server.
 2. Make sure PHP is enabled for the directory.
 3. Open the script in a browser.
 
 For example:
 
 ```text
-https://example.com/password.php
+https://example.com/passwords/index.php
 ```
 
 The script starts a PHP session automatically when required.
